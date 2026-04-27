@@ -26,8 +26,3 @@ Sebagai seorang dosen di program Sistem Informasi, saya sangat antusias mengeksp
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mfurqanhakim139&show_icons=true&theme=radical) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfurqanhakim139&layout=compact&theme=radical)
-
-*(Catatan: Anda bisa menyesuaikan tema statistik di atas dengan mengganti parameter `theme=radical` dengan tema lain yang didukung).*
-
----
-*Mari terhubung dan berkolaborasi untuk merancang sistem, menulis kode yang bersih, atau berdiskusi tentang masa depan teknologi pendidikan!*
