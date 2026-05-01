@@ -2,6 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=M.%20Furqan%20Hakim&fontSize=60&fontAlignY=35&desc=Software%20Architect%20%7C%20Academic%20Lecturer%20%7C%20Informatics%20Developer&descAlignY=55&descAlign=62"/>
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mfurqanhakim139&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
+
 <h3 align="center">Menjembatani Teori Akademik dengan Rekayasa Perangkat Lunak Skala Penuh 🚀</h3>
 
 <div align="center">
@@ -32,7 +36,7 @@ Di luar arsitektur kode, filosofi saya adalah menerjemahkan konsep teknis yang r
 
 ### 🏆 Sertifikasi & Pencapaian Profesional
 
-Saya terus mengembangkan keahlian teknis melalui berbagai lisensi dan sertifikasi industri:
+Saya terus mengembangkan keahlian teknis melalui puluhan lisensi dan sertifikasi industri global:
 
 <details>
   <summary><b>🐍 Python, Data Science & Machine Learning</b></summary>
@@ -74,35 +78,68 @@ Saya terus mengembangkan keahlian teknis melalui berbagai lisensi dan sertifikas
 
 ---
 
-### 🛠️ Tech Stack Inti
+### 🛠️ Tech Stack & Alat
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic"/>
+  <b>Membangun dengan:</b><br><br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white" alt="Ionic"/>
   <br>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" alt="cPanel"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/AI_Architecture-FF4F8B?style=for-the-badge&logo=openai&logoColor=white" alt="AI"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white" alt="cPanel"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/AI_Architecture-FF4F8B?style=flat-square&logo=openai&logoColor=white" alt="AI"/>
 </div>
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 Statistik GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mfurqanhakim139&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfurqanhakim139&layout=compact&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mfurqanhakim139&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mfurqanhakim139&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mfurqanhakim139&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfurqanhakim139&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+*(Catatan: Jika statistik di atas terkadang tidak memuat (blank), itu berarti server API sedang dalam proses sinkronisasi data. Cukup refresh halaman).*
+
+---
+
+### 📫 Mari Terhubung!
+
+Punya ide proyek, diskusi seputar riset akademik, atau ingin berkolaborasi? Jangan ragu untuk menghubungi saya:
+
+<div align="center">
+  <a href="mailto:mfurqanhakim139@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/mfurqanhakim139">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
+  </a>
 </div>
 
 <br>
 
 <div align="center">
   <i>"Writing code is like writing laws for a digital universe—it requires logic, foresight, and a deep understanding of human behavior."</i>
-  <br><br>
-  <b>Mari terhubung dan berkolaborasi untuk merancang sistem masa depan!</b>
 </div>
