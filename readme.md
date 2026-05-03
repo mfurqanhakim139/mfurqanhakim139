@@ -24,16 +24,15 @@ Filosofi saya adalah menerjemahkan konsep teknis yang rumit ke dalam analogi sed
 
 ---
 
-### 📚 Karya & Publikasi
+### 📚 Karya & Publikasi Akademik
 
-Sebagai pendidik dan praktisi, saya mendokumentasikan keahlian teknis melalui tulisan untuk membantu lebih banyak orang memahami teknologi:
+Sebagai pendidik dan peneliti, saya mendokumentasikan keahlian teknis melalui buku dan jurnal akademik. Anda dapat melihat daftar lengkap publikasi ilmiah saya di **[Profil Google Scholar](https://scholar.google.com/citations?hl=en&user=xG-tuccAAAAJ)** saya.
 
 *   📗 **Kerja Cerdas Dengan Python** *(Diterbitkan oleh Detak Pustaka)*  
     Buku panduan praktis yang merangkum teknik otomatisasi, efisiensi kerja, dan penerapan rekayasa perangkat lunak menggunakan Python untuk menyelesaikan masalah dunia nyata.  
     🔗 **Dapatkan di:** [Detak Pustaka Toko](https://detakpustakatoko.com/product/buku-kerja-cerdas-dengan-python/) | [Google Play Books](https://play.google.com/store/books/details/Muhammad_Furqan_Hakim_Kerja_Cerdas_Dengan_Python?id=E_VpEQAAQBAJ&hl=id)
-
-*   📙 **The Art of Automata: Memahami Bahasa Komputer Tanpa Pusing Rumus**  
-    *(Sedang dalam proses penulisan)*. Proyek edukasi untuk menyederhanakan teori otomata tingkat lanjut bagi mahasiswa tanpa membebani mereka dengan formula matematis yang rumit.
+*   📙 **The Art of Automata: Memahami Bahasa Komputer Tanpa Pusing Rumus** *(Sedang ditulis)*  
+    Proyek edukasi untuk menyederhanakan teori otomata tingkat lanjut bagi mahasiswa tanpa membebani mereka dengan formula matematis yang rumit.
 
 ---
 
@@ -113,7 +112,7 @@ Saya terus mengembangkan keahlian teknis melalui puluhan lisensi dan sertifikasi
 ### 📈 GitHub Analytics & Activity
 
 <div align="center">
-  <!-- Grafik Aktivitas -->
+  <!-- Grafik Aktivitas (Sangat Stabil) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mfurqanhakim139&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=16ceb9&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
 
@@ -127,8 +126,7 @@ Saya terus mengembangkan keahlian teknis melalui puluhan lisensi dan sertifikasi
 <br>
 
 <div align="center">
-  <!-- Pengganti Top Languages yang Error: Productive Time & Streak Stats -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mfurqanhakim139&theme=tokyonight&utcOffset=7" alt="Productive Time" height="195px"/>
+  <!-- Konsistensi Kontribusi (Sangat Stabil) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mfurqanhakim139&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="195px"/>
 </div>
 
@@ -148,7 +146,7 @@ Punya ide proyek, diskusi seputar riset akademik, atau ingin berkolaborasi dalam
   <a href="https://huggingface.co/mfurqanhakim">
     <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
   </a>
-  <a href="#">
+  <a href="https://scholar.google.com/citations?hl=en&user=xG-tuccAAAAJ">
     <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
   </a>
 </div>
