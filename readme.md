@@ -148,7 +148,7 @@ Punya ide proyek, diskusi seputar riset akademik, atau ingin berkolaborasi dalam
   <a href="https://huggingface.co/mfurqanhakim">
     <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
   </a>
-  <a href="#">
+  <a href="https://scholar.google.com/citations?hl=en&user=xG-tuccAAAAJ&view_op=list_works">
     <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
   </a>
 </div>
