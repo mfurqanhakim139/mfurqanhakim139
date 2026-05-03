@@ -127,8 +127,8 @@ Saya terus mengembangkan keahlian teknis melalui puluhan lisensi dan sertifikasi
 <br>
 
 <div align="center">
-  <!-- Top Languages & Streak Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfurqanhakim139&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="195px"/>
+  <!-- Pengganti Top Languages yang Error: Productive Time & Streak Stats -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mfurqanhakim139&theme=tokyonight&utcOffset=7" alt="Productive Time" height="195px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mfurqanhakim139&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="195px"/>
 </div>
 
@@ -148,7 +148,7 @@ Punya ide proyek, diskusi seputar riset akademik, atau ingin berkolaborasi dalam
   <a href="https://huggingface.co/mfurqanhakim">
     <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
   </a>
-  <a href="https://scholar.google.com/citations?hl=en&user=xG-tuccAAAAJ&view_op=list_works">
+  <a href="#">
     <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
   </a>
 </div>
